@@ -3,5 +3,5 @@ on:
   pull_request:
     types: [opened]
 permissions:
-  puöö-requests: write
+  pull-requests: write
   
